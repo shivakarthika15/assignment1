@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: niveus
+Build-Jdk: 17.0.4
+Implementation-Title: microservices-springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.niveus
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/FirstAssignment
+Created-By: Maven Integration for Eclipse
+
